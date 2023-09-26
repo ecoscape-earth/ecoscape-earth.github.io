@@ -15,9 +15,11 @@ The project so far consists of the following repositories:
 
 * Luca de Alfaro (luca@ucsc.edu)
 * Natalia Ocampo-Peñuela (nocampop@ucsc.edu)
+* Tyler Sorensen (tyler.sorensen@ucsc.edu)
 
-### Students
+### Contributors
 
 * Jasmine Tai (cjtai@ucsc.edu)
 * Natalie Valett (nvalett@ucsc.edu)
 * Coen Adler (ctadler@ucsc.edu)
+* Artie Nazarov (anazarov@ucsc.edu)
