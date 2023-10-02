@@ -13,14 +13,7 @@ The EcoScape project aims at modeling animal (and perhaps, in the future, plant)
 * [ecoscape-connectivity](https://github.com/ecoscape-earth/ecoscape-connectivity) is the tool for computing habitat connectivity. 
 * [ecoscape-utils](https://github.com/ecoscape-earth/ecoscape-utils) is a collection of utilities that facilitate working on habitats and landscapes.
 
-The above code can be installed via `pip`: 
-
-```
-pip install scgt
-pip install ecoscape-connectivity
-pip install ecoscape-layers
-pip install ecoscape-utils
-```
+The above code can be installed via `pip`, e.g., `pip install ecoscape-connectivity`. 
 
 ## Sample Notebooks
 
