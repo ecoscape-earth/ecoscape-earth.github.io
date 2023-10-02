@@ -4,7 +4,7 @@ The EcoScape project aims at modeling animal (and perhaps, in the future, plant)
 
 ## Publications
 
-* Natalia Ocampo-Peñuela, Coen Adler, Artie Nazarov, Jasmine Tai, Natalie Valett, Luca de Alfaro. [Diffusion Models For Species-Specific Functional Habitat Connectivity](https://tr.soe.ucsc.edu/research/technical-reports/UCSC-SOE-23-10). Technical Report UCSC-SOE-23-10, 2023.
+* Natalia Ocampo-Peñuela, Coen Adler, Artie Nazarov, Jasmine Tai, Natalie Valett, Luca de Alfaro. [Diffusion Models For Species-Specific Functional Habitat Connectivity](https://tr.soe.ucsc.edu/research/technical-reports/UCSC-SOE-23-10). Technical Report UCSC-SOE-23-10, 2023.  [Reproduction material](https://github.com/ecoscape-earth/ecoscape-connectivity-paper-reproduction) for the study.
 
 ## Code Repositories 
 
