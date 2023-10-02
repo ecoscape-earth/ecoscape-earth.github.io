@@ -4,14 +4,18 @@ The EcoScape project aims at modeling animal (and perhaps, in the future, plant)
 
 ## Publications
 
-* Natalia Ocampo-Peñuela, Coen Adler, Artie Nazarov, Jasmine Tai, Natalie Valett, Luca de Alfaro. [Diffusion Models For Species-Specific Functional Habitat Connectivity](https://tr.soe.ucsc.edu/research/technical-reports/UCSC-SOE-23-10). Technical Report UCSC-SOE-23-10, 2023. 
+* Natalia Ocampo-Peñuela, Coen Adler, Artie Nazarov, Jasmine Tai, Natalie Valett, Luca de Alfaro. [Diffusion Models For Species-Specific Functional Habitat Connectivity](https://tr.soe.ucsc.edu/research/technical-reports/UCSC-SOE-23-10). Technical Report UCSC-SOE-23-10, 2023.
 
 ## Code Repositories 
 
 * [SCGT](https://github.com/ecoscape-earth/scgt), the UC Santa Cruz Geographical Toolkit, contains functions for working with geotiff files. 
 * [ecoscape-layers](https://github.com/ecoscape-earth/ecoscape-layers) contains functions for generating habitat and landcover layers for bird species. 
 * [ecoscape-connectivity](https://github.com/ecoscape-earth/ecoscape-connectivity) is the tool for computing habitat connectivity. 
-* [ecoscape-utils](https://github.com/ecoscape-earth/ecoscape-utils) is a collection of utilities that facilitate working on habitats and landscapes. 
+* [ecoscape-utils](https://github.com/ecoscape-earth/ecoscape-utils) is a collection of utilities that facilitate working on habitats and landscapes.
+
+## Sample Notebooks
+
+* [EcoScape Connectivity Computation](https://drive.google.com/file/d/1Pz6lLyIs8Ju2UGkNtZqcNR72cFzn8UYc/view?usp=sharing). The notebook shows how to run the EcoScape Connectivity computation given input habitat and landcover layers. 
 
 ## Project Members
 
