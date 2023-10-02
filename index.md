@@ -16,8 +16,10 @@ The EcoScape project aims at modeling animal (and perhaps, in the future, plant)
 ## Sample Notebooks
 
 * [EcoScape Connectivity Computation](https://drive.google.com/file/d/1Pz6lLyIs8Ju2UGkNtZqcNR72cFzn8UYc/view?usp=sharing). The notebook shows how to run the EcoScape Connectivity computation given input habitat and landcover layers. 
+* [EcoScape Layer Generation and Connectivity Computation](https://colab.research.google.com/drive/1Aby8VqaSMgYySxsLPXfsVgdvZvCFRUtI?usp=sharing). The notebook does the process of studying the connectivity for a species from beginning to end: it computes habitat and  landcover layers from IUCN data, and analyzes the connectivity using the EcoScape algorithm. 
 
 ## Project Members
+(In alphabetical order)
 
 ### Faculty 
 
@@ -27,7 +29,8 @@ The EcoScape project aims at modeling animal (and perhaps, in the future, plant)
 
 ### Contributors
 
-* Jasmine Tai (cjtai@ucsc.edu)
-* Natalie Valett (nvalett@ucsc.edu)
 * Coen Adler (ctadler@ucsc.edu)
 * Artie Nazarov (anazarov@ucsc.edu)
+* Jasmine Tai (cjtai@ucsc.edu)
+* Ian Terry (imterry@ucsc.edu)
+* Natalie Valett (nvalett@ucsc.edu)
