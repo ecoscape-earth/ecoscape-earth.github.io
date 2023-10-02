@@ -8,10 +8,19 @@ The EcoScape project aims at modeling animal (and perhaps, in the future, plant)
 
 ## Code Repositories 
 
-* [SCGT](https://github.com/ecoscape-earth/scgt), the UC Santa Cruz Geographical Toolkit, contains functions for working with geotiff files. 
+* [scgt](https://github.com/ecoscape-earth/scgt), the UC Santa Cruz Geographical Toolkit, contains functions for working with geotiff files. 
 * [ecoscape-layers](https://github.com/ecoscape-earth/ecoscape-layers) contains functions for generating habitat and landcover layers for bird species. 
 * [ecoscape-connectivity](https://github.com/ecoscape-earth/ecoscape-connectivity) is the tool for computing habitat connectivity. 
 * [ecoscape-utils](https://github.com/ecoscape-earth/ecoscape-utils) is a collection of utilities that facilitate working on habitats and landscapes.
+
+The above code can be installed via `pip`: 
+
+```
+pip install scgt
+pip install ecoscape-connectivity
+pip install ecoscape-layers
+pip install ecoscape-utils
+```
 
 ## Sample Notebooks
 
